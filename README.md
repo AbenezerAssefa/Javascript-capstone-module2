@@ -129,9 +129,6 @@ Testing with Lint-checks:
 
 ![image](./src/assests/Screenshot%202023-04-27%20124908.png)
 
-## Live Video
-
-[Watch the video](https://drive.google.com/file/d/1GWbP9k7l3xjJUzuNRQdWE2JAIN8bQ9Ry/view?usp=sharing)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
